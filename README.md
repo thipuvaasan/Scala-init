@@ -1,0 +1,2 @@
+# Scala-init
+Scala
